@@ -7,3 +7,8 @@ git branch --set-upstream-to=origin/master
 git add -A
 git commit -m "This is my direc Add at LinuxMint"
 git push or use git push origin master
+git checkout -b DeveBran # to create remote branch
+git push -u origin <new-branch> # to sync local branch with remote branch
+git push --delete origin DeveBran # to delete a branch
+git checkout DeveBran # to create local branch
+git branch -D DeveBran # to delete local branch
