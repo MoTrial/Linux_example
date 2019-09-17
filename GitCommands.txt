@@ -1,0 +1,9 @@
+git init
+git remote add origin https://github.com/MoHamzaDev/Linux_example.git
+git config --global user.name "mohamed"
+git config --global user.email mohamed@mohamed-SATELLITE-L850-1W3
+git pull origin master
+git branch --set-upstream-to=origin/master
+git add -A
+git commit -m "This is my direc Add at LinuxMint"
+git push or use git push origin master
