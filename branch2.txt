@@ -11,3 +11,4 @@ if (i ==0)
 }
 Delta T =0
 DeltaF
+gg=1
