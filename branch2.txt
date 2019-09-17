@@ -4,4 +4,10 @@ Another change
 delta
 hi
 he
+Res =1
+if (i ==0)
+{
+    continue;
+}
 Delta T =0
+DeltaF
