@@ -19,3 +19,6 @@ Newwwwwww
 GG
 D
 Heee
+while True
+
+end
